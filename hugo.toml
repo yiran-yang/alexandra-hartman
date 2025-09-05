@@ -1,0 +1,18 @@
+baseURL = 'https://yiran-yang.github.io/alex-hartman-working/'
+languageCode = 'en-uk'
+title = ''
+theme = 'hugo-resume'
+
+[params]
+
+firstName = "Alexandra"
+lastName = "Hartman"
+address = "University College London"
+email = "alexandra.hartman@ucl.ac.uk"
+profileImage = "img/hartman_work_photo.jpg"
+showContact = false
+favicon = "favicon.ico"
+faviconIco = true
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
